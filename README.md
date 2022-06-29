@@ -16,3 +16,7 @@ Data Visualization Capstone project
 # - A visualization of Netflix stock against the Dow Jones stock (to get a sense of the market) in 2017
 
 # Financial Data Source: [Yahoo Finance](https://finance.yahoo.com/quote/DATA/)
+
+
+![1](https://user-images.githubusercontent.com/93402393/176415396-40e51a65-0ef2-4108-bcb5-4aa808b5a074.png)
+![2](https://user-images.githubusercontent.com/93402393/176415408-67a3d389-2f20-4641-8f41-f8888d53a584.png)
